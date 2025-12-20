@@ -1,1 +1,9 @@
-<Solution />
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="MarketSquare.API.Application/MarketSquare.API.Application.csproj" Id="1330649e-3833-49ce-81b2-a20fa0e1714d" />
+  <Project Path="MarketSquare.API.Domain/MarketSquare.API.Domain.csproj" Id="4884b73b-08e0-4490-bd9b-db36b77eebfd" />
+  <Project Path="MarketSquare.API.Infrastructure/MarketSquare.API.Infrastructure.csproj" Id="9662a2ed-cb34-4e1b-bc02-384bd4dfcd26" />
+  <Project Path="MarketSquare.API.Presentation/MarketSquare.API.Presentation.csproj" Id="495f0c63-1657-4620-b56e-9861206af5a8" />
+</Solution>

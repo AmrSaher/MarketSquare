@@ -1,0 +1,6 @@
+@MarketSquare.API.Presentation_HostAddress = http://localhost:5270
+
+GET {{MarketSquare.API.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

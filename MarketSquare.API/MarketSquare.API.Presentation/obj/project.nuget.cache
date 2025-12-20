@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "cENTDL7H/7E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\t-aselshabrawy\\source\\repos\\MarketSquare\\MarketSquare.API\\MarketSquare.API.Presentation\\MarketSquare.API.Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\t-aselshabrawy\\.nuget\\packages\\cortex.mediator\\2.1.0\\cortex.mediator.2.1.0.nupkg.sha512",
+    "C:\\Users\\t-aselshabrawy\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\t-aselshabrawy\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.2\\microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
+    "C:\\Users\\t-aselshabrawy\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\t-aselshabrawy\\.nuget\\packages\\scrutor\\6.0.1\\scrutor.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
