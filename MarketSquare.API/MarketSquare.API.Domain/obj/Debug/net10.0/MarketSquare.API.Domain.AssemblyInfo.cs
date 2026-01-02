@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MarketSquare.API.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e49bfd8c3d487d5bf61ea36eb7ebebc23f3dd7a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8d353715e25662b5c6266b1bcc4dce443f5ce6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MarketSquare.API.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MarketSquare.API.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
