@@ -6,7 +6,7 @@
         public string Name { get; set; }
         public string Description { get; set; }
         public string LogoUrl { get; set; }
-        public bool IsApproved { get; set; }
+        public bool IsApproved { get; set; } = false;
 
         public Guid UserId { get; set; }
         public User User { get; set; }

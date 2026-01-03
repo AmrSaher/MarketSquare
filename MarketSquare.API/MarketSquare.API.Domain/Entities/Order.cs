@@ -16,5 +16,6 @@ namespace MarketSquare.API.Domain.Entities
         public Address Address { get; set; }
 
         public List<SubOrder> SubOrders { get; set; }
+        public List<OrderItem> Items { get; set; }
     }
 }

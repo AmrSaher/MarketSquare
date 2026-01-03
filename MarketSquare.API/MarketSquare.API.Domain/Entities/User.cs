@@ -2,6 +2,8 @@
 {
     public class User
     {
+        public Guid Id { get; set; }
+
         public Guid? VendorId { get; set; }
         public Vendor Vendor { get; set; }
 

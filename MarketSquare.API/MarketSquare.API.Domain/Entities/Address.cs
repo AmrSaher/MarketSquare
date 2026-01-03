@@ -10,7 +10,7 @@
         public int ApartmentNumber { get; set; }
         public string City { get; set; }
         public string Governorate { get; set; }
-        public bool IsDefault { get; set; }
+        public bool IsDefault { get; set; } = false;
 
         public Guid UserId { get; set; }
         public User User { get; set; }
